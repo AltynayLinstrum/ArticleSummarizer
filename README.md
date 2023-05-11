@@ -1,5 +1,5 @@
-<h3>News Summarizer</h3>
-<p>This is a Python application that summarizes the content and sentiment of news articles entered by the user. The application uses the TextBlob and newspaper libraries for natural language processing and article scraping, and the tkinter library to create a graphical user interface.</p>
+<h3>News Summarizer and Sentiment Detector</h3>
+<p>I created this Python app with the help of Youtube tutorials, ChapGPT, online resources, and valuable insights of more experienced friends! It summarizes the content and sentiment of news articles entered by the user. The application uses the TextBlob and newspaper libraries for natural language processing and article scraping, and the tkinter library to create a graphical user interface.</p>
 
 <h3>Technologies Used</h3>
 <li>Python</li>
